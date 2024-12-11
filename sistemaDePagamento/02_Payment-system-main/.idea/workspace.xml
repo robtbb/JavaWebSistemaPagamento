@@ -1,0 +1,107 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="546d8622-1e45-4ebd-bcd4-0d3c53b6150a" name="Changes" comment="">
+      <change beforePath="$PROJECT_DIR$/../../serviços Web/projetos/02_mesagem-api.zip" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../serviços Web/projetos/03_mensages-api.zip" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../serviços Web/projetos/04_cadastrodecurso-api.zip" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../tecnum/sistema/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../tecnum/sistema/.mvn/wrapper/maven-wrapper.properties" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../tecnum/sistema/mvnw" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../tecnum/sistema/mvnw.cmd" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../tecnum/sistema/pom.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../tecnum/sistema/src/main/java/com/projeto/sistema/SistemaApplication.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../tecnum/sistema/src/main/java/com/projeto/sistema/configuracaoBD.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../tecnum/sistema/src/main/java/com/projeto/sistema/controller/EstadoControle.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../tecnum/sistema/src/main/java/com/projeto/sistema/controller/PrincipalControle.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../tecnum/sistema/src/main/java/com/projeto/sistema/modelos/Estado.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../tecnum/sistema/src/main/java/com/projeto/sistema/repositorios/EstadoRepositorio.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../tecnum/sistema/src/main/resources/application.properties" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../tecnum/sistema/src/main/resources/templates/administrativo/estados/cadastro.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../tecnum/sistema/src/main/resources/templates/administrativo/estados/lista.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../tecnum/sistema/src/main/resources/templates/administrativo/home.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../tecnum/sistema/src/test/java/com/projeto/sistema/SistemaApplicationTests.java" beforeDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/../.." />
+  </component>
+  <component name="MavenImportPreferences">
+    <option name="generalSettings">
+      <MavenGeneralSettings>
+        <option name="mavenHomeTypeForPersistence" value="WRAPPER" />
+      </MavenGeneralSettings>
+    </option>
+  </component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 0
+}</component>
+  <component name="ProjectId" id="2nwTB8OLRSKnoTD9hwfdIHj6uHo" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;Application.PaymentSystemApplication.executor&quot;: &quot;Run&quot;,
+    &quot;RequestMappingsPanelOrder0&quot;: &quot;0&quot;,
+    &quot;RequestMappingsPanelOrder1&quot;: &quot;1&quot;,
+    &quot;RequestMappingsPanelWidth0&quot;: &quot;75&quot;,
+    &quot;RequestMappingsPanelWidth1&quot;: &quot;75&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;Spring Boot.PaymentSystemApplication.executor&quot;: &quot;Run&quot;,
+    &quot;git-widget-placeholder&quot;: &quot;main&quot;,
+    &quot;kotlin-language-version-configured&quot;: &quot;true&quot;,
+    &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
+    &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
+    &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
+    &quot;node.js.selected.package.tslint&quot;: &quot;(autodetect)&quot;,
+    &quot;nodejs_package_manager_path&quot;: &quot;npm&quot;,
+    &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
+  }
+}</component>
+  <component name="RunManager">
+    <configuration name="PaymentSystemApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot" nameIsGenerated="true">
+      <module name="payment-system" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.leminhosdev.paymentsystem.PaymentSystemApplication" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+  </component>
+  <component name="SharedIndexes">
+    <attachedChunks>
+      <set>
+        <option value="bundled-jdk-9823dce3aa75-28b599e66164-intellij.indexing.shared.core-IU-242.23726.103" />
+        <option value="bundled-js-predefined-d6986cc7102b-5c90d61e3bab-JavaScript-IU-242.23726.103" />
+      </set>
+    </attachedChunks>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="546d8622-1e45-4ebd-bcd4-0d3c53b6150a" name="Changes" comment="" />
+      <created>1729883001710</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1729883001710</updated>
+      <workItem from="1729883007408" duration="8326000" />
+      <workItem from="1729909624176" duration="357000" />
+      <workItem from="1729923890937" duration="1127000" />
+      <workItem from="1729976958325" duration="614000" />
+      <workItem from="1730041941086" duration="793000" />
+      <workItem from="1730050345801" duration="24000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+</project>
